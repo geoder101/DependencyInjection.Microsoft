@@ -1,0 +1,6 @@
+<Project>
+  <ItemGroup>
+    <None Remove="packages.lock.json" />
+    <None Remove="README.md" />
+  </ItemGroup>
+</Project>
