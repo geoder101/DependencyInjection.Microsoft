@@ -13,6 +13,8 @@ Extension methods for `Microsoft.Extensions.DependencyInjection` that enable the
 
 ## Installation
 
+[![NuGet](https://img.shields.io/nuget/v/geoder101.Microsoft.Extensions.DependencyInjection.svg)](https://www.nuget.org/packages/geoder101.Microsoft.Extensions.DependencyInjection/)
+
 ```bash
 dotnet add package geoder101.Microsoft.Extensions.DependencyInjection
 ```
