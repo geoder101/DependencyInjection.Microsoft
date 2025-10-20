@@ -1,12 +1,12 @@
 # DependencyInjection.Microsoft
 
-> DI extension helpers for Microsoft.Extensions.DependencyInjection that simplify service registration, lifetime preservation, and composition.
+> Complementary extensions for `Microsoft.Extensions.DependencyInjection` that enable advanced service composition and extensibility.
 
 [![NuGet](https://img.shields.io/nuget/v/geoder101.Microsoft.Extensions.DependencyInjection.svg)](https://www.nuget.org/packages/geoder101.Microsoft.Extensions.DependencyInjection/)
 
 ## Overview
 
-This library extends `Microsoft.Extensions.DependencyInjection` with powerful composition capabilities, enabling you to enhance registered services with additional functionality while preserving their original lifetimes. Build flexible, maintainable applications by layering cross-cutting concerns like logging, caching, validation, and more onto your services.
+This library complements `Microsoft.Extensions.DependencyInjection` with capabilities not provided out of the box. It focuses on service composition and extensibility so you can layer cross-cutting concerns (logging, caching, validation, retries, metrics) onto existing registrations without changing their implementations.
 
 ## Installation
 
